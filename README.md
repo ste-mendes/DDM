@@ -1,40 +1,33 @@
 # 📱 Repositório de Projetos - Desenvolvimento para Dispositivos Móveis
-Bem-vindo ao repositório oficial da disciplina Desenvolvimento para Dispositivos Móveis! 
-🚀 Aqui você encontrará os códigos dos projetos desenvolvidos ao longo do curso, exemplos práticos e materiais de apoio para facilitar seu aprendizado.
 
-📌 Sobre este Repositório
+Bem-vindo ao repositório oficial da disciplina **Desenvolvimento para Dispositivos Móveis**! 🚀 Aqui você encontrará os códigos dos projetos desenvolvidos ao longo do curso, exemplos práticos e materiais de apoio para facilitar seu aprendizado.
+
+## 📌 Sobre este Repositório
 
 Este repositório contém os projetos e exemplos abordados durante as aulas da disciplina, incluindo:
 
-📂 Estrutura básica de um aplicativo Android
+- 📂 **Estrutura básica de um aplicativo Android**
+- 🔘 **Uso de botões e interatividade**
+- 🔄 **Navegação entre telas (Activities e Intents)**
+- 📝 **Manipulação de dados e armazenamento local (SQLite e Room)**
+- 🔔 **Notificações e WorkManager**
+- 🎮 **Desenvolvimento de um protótipo de jogo**
+- 🚀 **Publicação de aplicativos na Play Store**
 
-🔘 Uso de botões e interatividade
+## 🔧 Como Utilizar os Projetos
 
-🔄 Navegação entre telas (Activities e Intents)
+1. Clone este repositório no seu computador:
+   ```sh
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
-📝 Manipulação de dados e armazenamento local (SQLite e Room)
 
-🔔 Notificações e WorkManager
-
-🎮 Desenvolvimento de um protótipo de jogo
-
-🚀 Publicação de aplicativos na Play Store
-
-🔧 Como Utilizar os Projetos
-
-Clone este repositório no seu computador:
-
-git clone https://github.com/ste-mendes/DDM.git
-
-Abra o projeto no Android Studio.
-
-Execute o projeto em um emulador ou dispositivo físico.
-
-Explore o código e modifique para praticar os conceitos aprendidos!
+2. Abra o projeto no Android Studio.
+3. Execute o projeto em um emulador ou dispositivo físico.
+4. Explore o código e modifique para praticar os conceitos aprendidos!
 
 📂 Estrutura do Repositório
 
-📁 nome-do-repositorio/
+📁 main/
 │-- 📁 Projeto1_HelloWorld/  # Primeiro app no Android Studio
 │-- 📁 Projeto2_Botoes/      # Exemplo de botões e interatividade
 
